@@ -4,7 +4,7 @@
   <title><![CDATA[В артиллерии свой взгляд на архитектуру]]></title>
   <link href="http://sysattack.github.io/atom.xml" rel="self"/>
   <link href="http://sysattack.github.io/"/>
-  <updated>2014-10-18T02:08:12+07:00</updated>
+  <updated>2014-10-18T02:14:09+07:00</updated>
   <id>http://sysattack.github.io/</id>
   <author>
     <name><![CDATA[Yaroslav Polyakov]]></name>
@@ -12,5 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Первый пост. Тестирую]]></title>
+    <link href="http://sysattack.github.io/blog/2014/10/18/piervyi-post-tiestiruiu/"/>
+    <updated>2014-10-18T02:11:58+07:00</updated>
+    <id>http://sysattack.github.io/blog/2014/10/18/piervyi-post-tiestiruiu</id>
+    <content type="html"><![CDATA[<p>ляляля
+фафафа</p>
+
+<p>ну разве не так?</p>
+]]></content>
+  </entry>
   
 </feed>
